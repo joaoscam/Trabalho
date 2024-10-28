@@ -1,0 +1,43 @@
+:: StoryTitle
+Selos de Guerra
+
+
+:: StoryData
+{
+  "ifid": "E249296F-F819-4D1B-AFB4-3A8ECDB35F79",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Menu principal",
+  "zoom": 1
+}
+
+
+:: INSTRUÇÕES DE JOGO {"position":"800,100","size":"100,100"}
+<!--Explicar como vai funcionar-->
+
+
+
+:: JOGAR {"position":"400,300","size":"100,100"}
+<!--Início do jogo-->
+
+
+:: Menu principal {"position":"500,0","size":"200,200"}
+<!--Fazer menu-->
+<div class="body">
+	<div class="menu">
+		<h1>SELOS DE GUERRA</h1>
+      		<br><br>
+     		 [[JOGAR]]
+      		<br>
+     		 [[INSTRUÇÕES DE JOGO]]
+    		<br>
+	</div>
+</div>
+
+
+:: StoryStylesheet [stylesheet]
+.body{background: url(https://png.pngtree.com/png-vector/20240821/ourmid/pngtree-scroll-ancient-paper-png-image_13213402.png);
+size: 100%;}
+
+.menu { text-shadow: black 15% 15%; text-align: center; margin: 10px; padding: 10; }
+  
