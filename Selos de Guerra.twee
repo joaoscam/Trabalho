@@ -12,16 +12,6 @@ Selos de Guerra
 }
 
 
-:: 2° carta {"position":"750,675","size":"100,100"}
-“Minha doce Astrid Becker,
-Desde a última carta que lhe enviei, devo dizer que as coisas têm andado turbulentas. De fato, cheguei a acreditar que este conflito não passaria de algumas semanas de duração, pode ver isso pelo tamanho curto da minha carta anterior em comparação a essa, mas estava fatalmente enganado. Estou aqui a um ano e meio, e tive pouco descanso desde então. Muitos de nós estão morrendo ou se ferindo, e estou completamente sujo de lama e sangue. Afinal, além das batalhas, ficamos em trincheiras... (essa é uma pergunta e a alternativa certa é “que são buracos cavados na terra”). Nas trincheiras dormimos, comemos, e até lutamos em batalhas de longo alcance. É infestado de ratos e animais, mas ao menos eles servem para comer os cadáveres enquanto não podemos jogá-los fora.
-Normalmente, minha função aqui é lutar nas batalhas, mas nos momentos que não temos batalhas, eu fico encarregado de proteger o depósito que improvisamos para as armas. Devo dizer que encontrei algumas que, como o mecânico que sou fora do contexto da guerra, me impressionaram um bocado, desde os lança chamas até os tanques. Mas como ser humano, estou tão horrorizado! Elas carbonizam a carne e esmagam sonhos, derramam sangue no chão e expõe a mortalidade humana para olhos nus verem! 
-É uma situação precária, eu sei, mas temos a capacidade de contornar a situação! Tenho certeza de que esta será minha última carta, e que daqui a pouco estarei contigo, e passearemos por aquele parque que você sempre quis ir, mas que eu sempre recusei por pura tolice. Vai ser um passeio tranquilo e sem ratos ou cadáveres, apenas flores de todas as cores e formatos, e podemos levar aqueles Quarkbällchen que sua mãe faz para saborearmos juntos. 
-Não tenha medo, tudo se resolverá com o tempo.
-De seu amado,
-Friedrich Becker”
-
-
 :: Boa Sorte na Guerra! {"position":"650,275","size":"100,100"}
 “Minha amada Astrid Becker,  
 
@@ -43,8 +33,8 @@ Pergunta: “Por que Friedrich Becker pensou que poderia ver sua amada em breve?
 [[d) Pois é a vida. ]]
 
 
-:: Bélgica {"position":"625,925","size":"100,100"}
-
+:: Bélgica {"position":"550,1150","size":"100,100"}
+ERROU!
 
 
 :: Começar {"position":"875,175","size":"100,100"}
@@ -53,23 +43,39 @@ Pergunta: “Por que Friedrich Becker pensou que poderia ver sua amada em breve?
 <h2>[[Boa Sorte na Guerra!]]</h2>
 
 
-:: Continuar {"position":"750,550","size":"100,100"}
+:: Continuar {"position":"550,600","size":"100,100"}
 Depois de enviar a carta, ele e seu companheiros da Alemanha avançam para o território da Bélgica para conseguirem avançar contra a França, e ao entrarem no território franceses o Reino Unido declarar guerra contra a Alemanha. Porém de19 a 24 de agosto de 1914, somente 15 dias depois, começaria a “Batalha de Fronteiras”, onde os alemães fizeram a França recuar 200 quilômetros.
+
 Nesse meio termo aconteceu a batalha de Tannenberg, que tinha como objetivo frear o avanço das forças russas na frente da Prússia Oriental.
-
-<img src="https://th.bing.com/th/id/R.0aecf09481be896f392d69d5d3e340e9?rik=1BPNnaA3LU4e3A&riu=http%3a%2f%2foespacodahistoria.com%2fimages%2fmanuelmourao%2fPr imeira_Guerra_Mundial%2fPlanos%2fAlemanha_1914.png&ehk=Y%2f6355Dcg%2bvQsBSznAoVp44ugULdJkYONDR1gf30LYE%3d&risl=&pid=ImgRaw&r=0">
-
+ 
+<img src="https://th.bing.com/th/id/R.0aecf09481be896f392d69d5d3e340e9?rik=1BPNnaA3LU4e3A&riu=http%3a%2f%2foespacodahistoria.com%2fimages%2fmanuelmourao%2fPrimeira_Guerra_Mundial%2fPlanos%2fAlemanha_1914.png&ehk=Y%2f6355Dcg%2bvQsBSznAoVp44ugULdJkYONDR1gf30LYE%3d&risl=&pid=ImgRaw&r=0">
+ 
 Vendo o mapa acima, o Friedrich poderia participar da batalha de Tannenberg que ocorreu contra o império Russo? 
+
 [[Não]]
+
 [[Sim]]
+ 
 
 
-:: Espanha {"position":"625,800","size":"100,100"}
+:: Espanha {"position":"550,1000","size":"100,100"}
+ERROU!
 
 
+:: Império Otomano {"position":"775,1000","size":"100,100"}
+Em 22 abril de 1915, o batalhão de Friedrich recebem a ordem de usar gases tóxicos contra os inimigos que estavam entre   Langemarck e Ypres (Bélgica). No um mês depois eles são avisados de outra vitória, um navio britânico tinha sido afundado por um submarino na Irlanda.
 
-:: Império Otomano {"position":"750,800","size":"100,100"}
+Em   23 de maio de 1915 outro país se juntou com a Alemanha quem seria:
 
+[[Irlanda]]
+
+[[Bélgica]]
+
+[[Portugal]]
+
+[[Itália]]
+
+ 
 
 
 :: Instruções do Jogo {"position":"800,25","size":"100,100"}
@@ -88,12 +94,20 @@ Vendo o mapa acima, o Friedrich poderia participar da batalha de Tannenberg que 
 <h2>[[Começar]]</h2>
 
 
+:: Irlanda {"position":"700,1150","size":"100,100"}
+ERROU!
+
+
+:: Itália {"position":"1000,1150","size":"100,100"}
+ERROU!
+
+
 :: Menu principal {"position":"500,0","size":"200,200"}
 <h1>Selos de Guerra</h1>
 <h2>[[Instruções do Jogo]]</h2>
 
 
-:: Não {"position":"625,675","size":"100,100"}
+:: Não {"position":"550,775","size":"100,100"}
 O Friedrich no dia 6 de setembro de 1914 quando estava em Marne (leste de paris), acaba sofrendo uma contraofensiva das tropas franco-britânica, nesse dia ele perdeu alguns dos seus companheiros, porém recuaram mais para a Alemanha. Ele percebe que não foi somente eles quem estavam sofrendo contra a força inimiga e que nos meses de setembro até novembro do mesmo ano estiveram tentando cercar seus inimigos na frente ocidental, chegando perto do Mar do Norte.
 <img src="https://th.bing.com/th/id/OIP.ZXnHxplSCtItbGd2wdUnaAHaFn?rs=1&pid=ImgDetMain">
 
@@ -104,29 +118,33 @@ pergunta: Estava no início da guerra, porém ainda falta um aliado da Alemanha,
 [[Espanha]]
 
 
-:: Sim {"position":"875,675","size":"100,100"}
+:: Portugal {"position":"850,1150","size":"100,100"}
+ERROU!
 
 
-
-:: Suíça {"position":"500,800","size":"100,100"}
-
-
-
-:: a) Pois ele achou que ia sair da guerra depois do primeiro mês\  {"position":"625,425","size":"100,100"}
+:: Sim {"position":"800,650","size":"100,100"}
+ERROU!
 
 
+:: Suíça {"position":"375,1000","size":"100,100"}
+ERROU!
 
-:: b) Pois os soldados, principalmente os jovens, pensavam que a guerra seria rápida e segura\  {"position":"750,425","size":"100,100"}
+
+:: a) Pois ele achou que ia sair da guerra depois do primeiro mês\  {"position":"400,425","size":"100,100"}
+ERROU!
+
+
+:: b) Pois os soldados, principalmente os jovens, pensavam que a guerra seria rápida e segura\  {"position":"550,425","size":"100,100"}
 Muito bem! Você acertou!
 [[Continuar]]
 
 
-:: c) Pois eles pensavam que a guerra tinha data fixa para acabar {"position":"500,425","size":"100,100"}
+:: c) Pois eles pensavam que a guerra tinha data fixa para acabar {"position":"750,425","size":"100,100"}
+ERROU!
 
 
-
-:: d) Pois é a vida.\  {"position":"875,425","size":"100,100"}
-
+:: d) Pois é a vida.\  {"position":"900,425","size":"100,100"}
+ERROU!
 
 
 :: StoryStylesheet [stylesheet]
