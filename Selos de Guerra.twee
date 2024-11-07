@@ -12,7 +12,29 @@ Selos de Guerra
 }
 
 
-:: Boa Sorte na Guerra! {"position":"650,275","size":"100,100"}
+:: Alemanha!! {"position":"925,3475","size":"100,100"}
+ERROU!
+
+
+:: Batalha de Franckfut {"position":"1450,1675","size":"100,100"}
+ERROU!
+
+
+:: Batalha de Lille {"position":"1300,1650","size":"100,100"}
+ERROU!
+
+
+:: Batalha de Reims {"position":"1475,1975","size":"100,100"}
+ERROU!
+
+
+:: Batalha de Somme {"position":"1475,1825","size":"100,100"}
+Porém uma noticia terrível chega a o campo de batalha que poderia acabar com todo o ecossistema da guerra, a morte do último imperador austro-húngaro, Francisco José I, em 21 de novembro...
+
+[[Terceira Carta]]
+
+
+:: Boa Sorte Na Guerra! {"position":"650,475","size":"100,100"}
 “Minha amada Astrid Becker,  
 
 Acabei de chegar ao meu batalhão. No caminho para cá, nos foi apresentado o comandante Helmuth von Moltke, que falou sobre o porquê de estarmos lutando, e as suas palavras me marcaram profundamente. Escrevê-las-ei para ti abaixo, brevemente, pois sei que você estará ocupada com minha ausência: 
@@ -33,18 +55,26 @@ Pergunta: “Por que Friedrich Becker pensou que poderia ver sua amada em breve?
 [[d) Pois é a vida. ]]
 
 
-:: Bélgica {"position":"550,1150","size":"100,100"}
+:: Brasileiros e filipinos {"position":"1125,1600","size":"100,100"}
+ERROU!
+
+
+:: Bélgica {"position":"550,1350","size":"100,100"}
+ERROU!
+
+
+:: Bélgica... {"position":"1400,2375","size":"100,100"}
 ERROU!
 
 
 :: Começar {"position":"875,175","size":"100,100"}
 <h1>Introdução</h1>
 <p>Você é um soldado alemão no início da Grande Guerra (1914), e está preso no inferno que são as trincheiras. Desde que chegou no território de batalha, você têm escrito cartas para alguém querido do seu país natal.</p>
-<h2>[[Boa Sorte na Guerra!]]</h2>
+<h2>[[Boa Sorte Na Guerra!]]</h2>
 
 
-:: Continuar {"position":"550,600","size":"100,100"}
-Depois de enviar a carta, ele e seu companheiros da Alemanha avançam para o território da Bélgica para conseguirem avançar contra a França, e ao entrarem no território franceses o Reino Unido declarar guerra contra a Alemanha. Porém de19 a 24 de agosto de 1914, somente 15 dias depois, começaria a “Batalha de Fronteiras”, onde os alemães fizeram a França recuar 200 quilômetros.
+:: Continuar {"position":"550,800","size":"100,100"}
+Depois de enviar a carta, ele e seu companheiros da Alemanha avançam para o território da Bélgica para conseguirem avançar contra a França, e ao entrarem no território franceses o Reino Unido declarar guerra contra a Alemanha. Porém de 19 a 24 de agosto de 1914, somente 15 dias depois, começaria a “Batalha de Fronteiras”, onde os alemães fizeram a França recuar 200 quilômetros.
 
 Nesse meio termo aconteceu a batalha de Tannenberg, que tinha como objetivo frear o avanço das forças russas na frente da Prússia Oriental.
  
@@ -55,17 +85,105 @@ Vendo o mapa acima, o Friedrich poderia participar da batalha de Tannenberg que 
 [[Não]]
 
 [[Sim]]
- 
 
 
-:: Espanha {"position":"550,1000","size":"100,100"}
+:: Declararam guerra contra nós {"position":"1175,2975","size":"100,100"}
+Mais um país entrará nessa carnificina sem sentido, cada vez mais pessoas morrerão. 
+Não vejo como poderia sair dessa situação precária de vida. Vamos perder, isto é claro como a luz! Afinal, as trincheiras...
+
+[[Estão lotadas de cadáveres, ratos e baratas, inundações, doenças, falta de alimentos e água potável]]
+[[Estão cheias de harmonia, paz e amor]]
+[[Estão super limpas]]
+
+
+:: Enquantos as batalhas durarem {"position":"1200,3225","size":"100,100"}
+e isso é infernal! Em outra vida, devo ter pecado ao nível de merecer viver tudo o que há de pior, pois tenha certeza de que é isto que essa guerra é!
+Minha querida Astrid, aproveite sua liberdade enquanto ainda a possui, pois o nosso país irá perder, e as consequências cairão sobre quem nada tem a ver com este flagelo! Meu amor, não se culpe pelo que está por vir, pois amo-te com todo o meu coração. Sempre me lembrarei de todas as noites em que você tocava o violino que você herdou da sua família, sempre se preocupando com os menores detalhes dos acordes, achando que estava horrível. Mas devo dizer, estava perfeito, e eu devia ter dito isto antes.  Quero voltar para ouvir-te tocar, como costumava ser, mas tenho medo da morte, que está sempre em meu encalço.
+Friedrich Becker
+
+[[Ir em frente]]
+
+
+
+:: Espanha {"position":"550,1200","size":"100,100"}
 ERROU!
 
 
-:: Império Otomano {"position":"775,1000","size":"100,100"}
-Em 22 abril de 1915, o batalhão de Friedrich recebem a ordem de usar gases tóxicos contra os inimigos que estavam entre   Langemarck e Ypres (Bélgica). No um mês depois eles são avisados de outra vitória, um navio britânico tinha sido afundado por um submarino na Irlanda.
+:: Estados Unidos... {"position":"1400,2725","size":"100,100"}
+ERROU!
 
-Em   23 de maio de 1915 outro país se juntou com a Alemanha quem seria:
+
+:: Estados Unidos.... {"position":"975,1850","size":"100,100"}
+ERROU!
+
+
+:: Estão cheias de harmonia, paz e amor {"position":"1300,3100","size":"100,100"}
+ERROU!
+
+
+:: Estão lotadas de cadáveres, ratos e baratas, inundações, doenças, falta de alimentos e água potável {"position":"1175,3100","size":"100,100"}
+Se não morrermos com uma bala na cabeça, morreremos pela nossa própria negligência! Geralmente ficamos nas trincheiras...
+
+[[Por horas]]
+[[Por meses]]
+[[Por dias]]
+[[Enquantos as batalhas durarem]]
+
+
+
+:: Estão super limpas {"position":"1050,3100","size":"100,100"}
+ERROU!
+
+
+:: FIM {"position":"1050,3750","size":"100,100"}
+Você concluiu a história! Parabéns...
+
+
+[[Menu principal]]
+
+
+:: Franceses e canadenses {"position":"1000,1600","size":"100,100"}
+Mas como ser humano, estou tão horrorizado! Elas carbonizam a carne, desestabiliza os ossos que nos mantém de pé, esmagam sonhos, derramam sangue no chão e expõe a mortalidade humana para olhos nus verem! 
+É uma situação precária, eu sei, mas temos a capacidade de contornar a situação! Tenho certeza de que esta será minha última carta, e que daqui a pouco estarei contigo, e passearemos por aquele parque que você sempre quis ir, mas que eu sempre recusei por pura tolice. Vai ser um passeio tranquilo e sem ratos ou cadáveres, apenas flores de todas as cores e formatos, e podemos levar aqueles Quarkbällchen que sua mãe faz para saborearmos juntos. 
+Não tenha medo, tudo se resolverá com o tempo.
+De seu amado,
+Friedrich Becker
+
+[[Prosseguir]]
+
+
+:: França! {"position":"700,2125","size":"100,100"}
+ERROU!
+
+
+:: França.... {"position":"1125,1850","size":"100,100"}
+ERROU!
+
+
+:: Hispânicos e irlandeses {"position":"875,1600","size":"100,100"}
+ERROU!
+
+
+:: Império Austrio-Húngaro! {"position":"1150,2125","size":"100,100"}
+ERROU!
+
+
+:: Império Austro-Húngaro!! {"position":"1200,3475","size":"100,100"}
+ERROU!
+
+
+:: Império Austro-Húngaro... {"position":"1400,2600","size":"100,100"}
+ERROU!
+
+
+:: Império Austro-Húngaro.... {"position":"825,1850","size":"100,100"}
+ERROU!
+
+
+:: Império Otomano {"position":"775,1200","size":"100,100"}
+Em 22 abril de 1915, o batalhão de Friedrich recebem a ordem de usar gases tóxicos contra os inimigos que estavam entre Langemarck e Ypres (Bélgica). Um mês depois, eles são avisados de outra vitória, um navio britânico tinha sido afundado por um submarino na Irlanda.
+
+Em 23 de maio de 1915, um país saiu da Tríplice Aliança. Esse país foi...
 
 [[Irlanda]]
 
@@ -75,7 +193,26 @@ Em   23 de maio de 1915 outro país se juntou com a Alemanha quem seria:
 
 [[Itália]]
 
- 
+
+:: Império-Otomano! {"position":"1000,2125","size":"100,100"}
+ERROU!
+
+
+:: Império-Otomano!! {"position":"1075,3475","size":"100,100"}
+Logo depois em 3 de novembro o Império Austro-Húngaro também assina um armistício, na Alemanha também estava um caos pois foi abdicado Kaiser Alemão, Guilherme II.
+Em 11 de novembro de 1918, acaba a primeira guerra, e em 1919 e assinado o Tratado de Versalhes.
+
+[[Última Carta]]
+
+
+
+:: Império-Otomano.... {"position":"1250,1850","size":"100,100"}
+Sem contar com a batalha de Verdun,teve outra batalha ruim no mesmo ano sendo a mais letal dessa guerra, tendo 1,2 milhão  de mortos, ela aconteceu no norte da França...
+
+[[Batalha de Somme]]
+[[Batalha de Franckfut]]
+[[Batalha de Reims]]
+[[Batalha de Lille]]
 
 
 :: Instruções do Jogo {"position":"800,25","size":"100,100"}
@@ -94,11 +231,31 @@ Em   23 de maio de 1915 outro país se juntou com a Alemanha quem seria:
 <h2>[[Começar]]</h2>
 
 
-:: Irlanda {"position":"700,1150","size":"100,100"}
+:: Ir em frente {"position":"1200,3350","size":"100,100"}
+O batalhão de Frederick é mandado no dia 21 de março de 1918, para uma série de ofensa, porém não conseguindo a vitória. E são designados para outra batalha que aconteceu em 15 de julho 1918. Que teve uma contraofensiva dos Aliados em Villers-Cotterets, porém aquela batalha o Frederick não somente a perdeu como também a sua própria vida, a perca consecutiva fez com que o primeiro países da tríplice entente assinasse um acordo de país.
+Qual era esse país:
+[[Alemanha!!]]
+[[Itália!!]]
+[[Império-Otomano!!]]
+[[Império Austro-Húngaro!!]]
+
+
+:: Irlanda {"position":"700,1350","size":"100,100"}
 ERROU!
 
 
-:: Itália {"position":"1000,1150","size":"100,100"}
+:: Itália {"position":"1000,1350","size":"100,100"}
+<h1>Segunda Carta</h1>
+Minha doce Astrid Becker,
+Desde a última carta que lhe enviei, devo dizer que as coisas têm andado turbulentas. De fato, cheguei a acreditar que este conflito não passaria de algumas semanas de duração, pode ver isso pelo tamanho curto da minha carta anterior em comparação a essa, mas estava fatalmente enganado. Estou aqui a um ano e meio, e tive pouco descanso desde então. Muitos de nós estão morrendo ou se ferindo, e estou completamente sujo de lama e sangue. Afinal, além das batalhas, ficamos em trincheiras... 
+
+[[que são buracos cavados na terra]]
+[[que são casas abando nadas que usamos para nos reunir]]
+[[que são prisões dos inimigos que capturamos]]
+[[que são cavernas]]
+
+
+:: Itália!! {"position":"1325,3475","size":"100,100"}
 ERROU!
 
 
@@ -107,48 +264,177 @@ ERROU!
 <h2>[[Instruções do Jogo]]</h2>
 
 
-:: Não {"position":"550,775","size":"100,100"}
+:: Não {"position":"550,975","size":"100,100"}
 O Friedrich no dia 6 de setembro de 1914 quando estava em Marne (leste de paris), acaba sofrendo uma contraofensiva das tropas franco-britânica, nesse dia ele perdeu alguns dos seus companheiros, porém recuaram mais para a Alemanha. Ele percebe que não foi somente eles quem estavam sofrendo contra a força inimiga e que nos meses de setembro até novembro do mesmo ano estiveram tentando cercar seus inimigos na frente ocidental, chegando perto do Mar do Norte.
 <img src="https://th.bing.com/th/id/OIP.ZXnHxplSCtItbGd2wdUnaAHaFn?rs=1&pid=ImgDetMain">
 
-pergunta: Estava no início da guerra, porém ainda falta um aliado da Alemanha, quem entrou em 1914?
+Estava no início da guerra, porém ainda falta um aliado da Alemanha, quem entrou em 1914?
 [[Bélgica]]
 [[Suíça]]
 [[Império Otomano]]
 [[Espanha]]
 
 
-:: Portugal {"position":"850,1150","size":"100,100"}
+:: Por dias {"position":"925,3225","size":"100,100"}
 ERROU!
 
 
-:: Sim {"position":"800,650","size":"100,100"}
+:: Por horas {"position":"1050,3225","size":"100,100"}
 ERROU!
 
 
-:: Suíça {"position":"375,1000","size":"100,100"}
+:: Por meses {"position":"1325,3225","size":"100,100"}
 ERROU!
 
 
-:: a) Pois ele achou que ia sair da guerra depois do primeiro mês\  {"position":"400,425","size":"100,100"}
+:: Portugal {"position":"850,1350","size":"100,100"}
 ERROU!
 
 
-:: b) Pois os soldados, principalmente os jovens, pensavam que a guerra seria rápida e segura\  {"position":"550,425","size":"100,100"}
+:: Portugal! {"position":"1275,2125","size":"100,100"}
+Não acha tolice? Não acha que deveríamos correr em busca do fim da guerra, mesmo que signifique uma derrota para nós? Gostaria de poupar a mim e a todos que estão presos nessas correntes ensanguentadas, mas acho que nossos superiores não pensam assim.
+Independentemente disso, meu bem, você deve saber, mas não depende só da nossa nação. Afinal, a Alemanha não luta sozinha. Fazemos parte da...
+
+[[Tríplice Aliança]]
+[[Tríplice Entente]]
+
+
+:: Portugal.... {"position":"700,1850","size":"100,100"}
+ERROU!
+
+
+:: Prosseguir {"position":"1000,1725","size":"100,100"}
+Mesmo que na carta ele parecesse bem, logo depois ele foi mandado para uma das piores batalhas da primeira guerra, sendo apelidado de “O moedor de carne de Verdun”. Ela durou desde 21 de fevereiro de 1916 até 18 de dezembro, tendo 500 mil mortos, alguns sendo os seus amigos.
+
+Mesmo durante a batalha de Verdon, o batalhão do Fredrick, soube que mais um país se juntaria a batalha contra eles, sendo Portugal, em 16 de março de 1960. Eles ficaram sabendo de algumas revoltas dos árabes contra...
+
+[[Estados Unidos....]]
+[[Portugal....]] 
+[[França....]]
+[[Império-Otomano....]]
+[[Império Austro-Húngaro....]]
+
+
+:: Quarta Carta {"position":"1175,2850","size":"100,100"}
+Meu amor Astrid Becker,
+Não há mais esperanças, há? A morte nos acompanha em todas as nossas viagens, apenas esperando para nos levar em seus braços gélidos e inescapáveis!  Ninguém aqui sobreviverá, estamos sendo aniquilados enquanto aniquilamos. Hoje, o dia que escrevo essa carta, lancei chamas contra alguém do meu próprio batalhão, confuso pelas bombas. Já lhe disse anteriormente o quanto isso perdeu o sentido, mas isto está apenas servindo para reforçar este fato. Para piorar a situação, agora os Estados Unidos...
+
+[[Declararam guerra contra nós]]
+[[Se juntaram a nós]]
+[[Saíram da Guerra]]
+
+
+:: Reino Unido! {"position":"850,2125","size":"100,100"}
+ERROU!
+
+
+:: Russos e estadunidenses {"position":"725,1600","size":"100,100"}
+ERROU!
+
+
+:: Rússia {"position":"1400,2500","size":"100,100"}
+A saída desse país ocorreu quando, em 8 e 15 de março a revolução russa ocorreu, o que faz com que caia a dinastia dos Romanov. Isso fez com que eles conseguissem assinar um Armistício de Brest-Litovsk e em 3 de 1918, saindo o tratado de paz.
+
+[[Quarta Carta]]
+
+
+:: Saíram da Guerra {"position":"1050,2975","size":"100,100"}
+ERROU!
+
+
+:: Se juntaram a nós {"position":"1300,2975","size":"100,100"}
+ERROU!
+
+
+:: Seguir em frente {"position":"1150,2475","size":"100,100"}
+Ao término da batalha que Friedrich estava, ele foi designada para verificara situações dos submarinos, que no dia 1 de fevereiro tinha participado de uma batalha, que causo a rompimento das relações com os EUA, que isso causaria a inserção desse pais na Guerra em 6 de abril do mesmo ano
+
+Qual país sai da guerra em 15 de dezembro de 1917:
+
+[[Império Austro-Húngaro...]]
+[[Bélgica...]]
+[[Estados Unidos...]]
+[[Rússia]]
+
+
+:: Sim {"position":"800,850","size":"100,100"}
+ERROU!
+
+
+:: Suíça {"position":"375,1200","size":"100,100"}
+ERROU!
+
+
+:: Terceira Carta {"position":"1000,2000","size":"100,100"}
+Minha querida Astrid Becker,
+Corpos rodeiam-me todos os dias. Corpos dos meus superiores que me impediram de ir de encontro com a morte inúmeras vezes, mas que não foram capazes de impedir a sua própria. Corpos dos meus queridos amigos, tanto Klaus, quanto Aaron e até Herbert, que ficaram ao meu lado desde o começo até o fim, quando invadimos Verdun. Vi-os morrer, eles estavam ao meu alcance, eu podia tê-los salvos e estou ciente disso. Mas fui incapaz e frágil, não pude retribuir tudo que eles fizeram por mim. 
+E não são só os meus companheiros que foram mortos. Todos estão morrendo de todos os lados, por causa de pessoas como eu, que estão focadas em matar o “inimigo”. Isso é uma grande tolice! Inimigos não somos nós para eles e nem eles para nós, mas nossos políticos para os deles e os deles para os nossos! Nós estamos matando seres humanos como eu e você, minha querida. E agora, soube que nossa nação ousou declarar guerra contra...
+
+[[Reino Unido!]]
+[[Portugal!]]
+[[França!]]
+[[Império-Otomano!]]
+[[Império Austrio-Húngaro!]]
+
+
+:: Tríplice Aliança {"position":"1175,2250","size":"100,100"}
+..., e por isso o Império Austro-húngaro está conosco. Ao menos não como a Itália, que se juntou a tríplice entente. Nossos superiores me matariam se lessem o que direi, mas se eu pudesse, teria feito o mesmo. Ao menos eles tem poder de parar a guerra se quiserem.
+Friedrich Becker.
+
+[[Seguir em frente]]
+
+
+:: Tríplice Entente {"position":"1300,2250","size":"100,100"}
+ERROU!
+
+
+:: a) Pois ele achou que ia sair da guerra depois do primeiro mês\  {"position":"400,625","size":"100,100"}
+ERROU!
+
+
+:: b) Pois os soldados, principalmente os jovens, pensavam que a guerra seria rápida e segura\  {"position":"550,625","size":"100,100"}
 Muito bem! Você acertou!
 [[Continuar]]
 
 
-:: c) Pois eles pensavam que a guerra tinha data fixa para acabar {"position":"750,425","size":"100,100"}
+:: c) Pois eles pensavam que a guerra tinha data fixa para acabar {"position":"750,625","size":"100,100"}
 ERROU!
 
 
-:: d) Pois é a vida.\  {"position":"900,425","size":"100,100"}
+:: d) Pois é a vida.\  {"position":"900,625","size":"100,100"}
 ERROU!
+
+
+:: que são buracos cavados na terra {"position":"1000,1475","size":"100,100"}
+Nas trincheiras dormimos, comemos, e até lutamos em batalhas de longo alcance. É infestado de ratos e animais, mas ao menos eles servem para comer os cadáveres enquanto não podemos jogá-los fora.
+Normalmente, minha função aqui é lutar nas batalhas, mas nos momentos que não temos batalhas, eu fico encarregado de proteger o depósito que improvisamos para as armas. Devo dizer que encontrei algumas que, como o mecânico que sou, me impressionaram um bocado, desde os lança chamas até os tanques. Menção honrosa aos gases tóxicos, que lançamos contra a... em abril, devastando suas tropas.
+ 
+ [[Hispânicos e irlandeses]]
+ [[Franceses e canadenses]]
+ [[Russos e estadunidenses]]
+ [[Brasileiros e filipinos]]
+
+
+:: que são casas abando nadas que usamos para nos reunir {"position":"1125,1475","size":"100,100"}
+ERROU!
+
+
+:: que são cavernas {"position":"875,1475","size":"100,100"}
+ERROU!
+
+
+:: que são prisões dos inimigos que capturamos {"position":"725,1475","size":"100,100"}
+ERROU!
+
+
+:: Última Carta {"position":"1050,3625","size":"100,100"}
+Senhorita Astrid Becker, de Berlim,
+É com pesar que informamos que seu prometido, senhor Friedrich Becker, foi morto em batalha. Saiba que ele foi um herói por servir a nação de forma tão honrosa, por isso a senhora deve sentir-se orgulhosa, independentemente se fomos vitoriosos ou perdedores. O senhor Friedrich foi essencial para que alcançássemos este tratado de paz, pois ele lutou do começo ao fim.
+
+<img src=https://www.historiaemcortes.com.br/wp-content/uploads/2022/07/74f7b458ae3168c6d8df312cac36d57e.webp>
+
+[[FIM]]
 
 
 :: StoryStylesheet [stylesheet]
-.body{background: url(https://png.pngtree.com/png-vector/20240821/ourmid/pngtree-scroll-ancient-paper-png-image_13213402.png);
-size: 100%;}
-
-.menu { text-shadow: black 15% 15%; text-align: center; margin: 10px; padding: 10; }
+tw-story{background-image:url(https://st3.depositphotos.com/19019230/33380/i/450/depositphotos_333802552-stock-photo-beige-vintage-paper-texture-background.jpg);background_size:100%;}
